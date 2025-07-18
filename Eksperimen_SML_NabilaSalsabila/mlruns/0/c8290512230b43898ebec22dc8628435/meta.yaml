@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Eksperimen_SML_NabilaSalsabila/mlruns/0/c8290512230b43898ebec22dc8628435/artifacts
+end_time: 1752676219988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8290512230b43898ebec22dc8628435
+run_name: dashing-wasp-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676199332
+status: 3
+tags: []
+user_id: salsa

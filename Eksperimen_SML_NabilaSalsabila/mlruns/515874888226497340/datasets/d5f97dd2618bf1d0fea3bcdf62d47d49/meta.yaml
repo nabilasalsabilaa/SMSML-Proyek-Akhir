@@ -1,0 +1,15 @@
+digest: 7c56a3a5
+name: dataset
+profile: '{"num_rows": 304, "num_elements": 3648}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Loan_ID", "required": true},
+  {"type": "long", "name": "Gender", "required": true}, {"type": "long", "name": "Married",
+  "required": true}, {"type": "long", "name": "Dependents", "required": true}, {"type":
+  "long", "name": "Education", "required": true}, {"type": "long", "name": "Self_Employed",
+  "required": true}, {"type": "double", "name": "ApplicantIncome", "required": true},
+  {"type": "double", "name": "CoapplicantIncome", "required": true}, {"type": "double",
+  "name": "LoanAmount", "required": true}, {"type": "double", "name": "Loan_Amount_Term",
+  "required": true}, {"type": "double", "name": "Credit_History", "required": true},
+  {"type": "long", "name": "Property_Area", "required": true}]}'
+source: '{"tags": {"mlflow.user": "salsa", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

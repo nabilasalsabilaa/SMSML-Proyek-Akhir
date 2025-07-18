@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/0/bd5d6144ec724464811bbdb576a299fd/artifacts
+end_time: 1752683742672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd5d6144ec724464811bbdb576a299fd
+run_name: useful-stork-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752683742311
+status: 4
+tags: []
+user_id: salsa

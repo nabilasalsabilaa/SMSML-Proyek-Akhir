@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Eksperimen_SML_NabilaSalsabila/mlruns/0/models/m-a94309091d2a488da7d67762cdb06cd2/artifacts
+creation_timestamp: 1752676199994
+experiment_id: '0'
+last_updated_timestamp: 1752676212680
+model_id: m-a94309091d2a488da7d67762cdb06cd2
+model_type: null
+name: model
+source_run_id: c8290512230b43898ebec22dc8628435
+status: 2
+status_message: null

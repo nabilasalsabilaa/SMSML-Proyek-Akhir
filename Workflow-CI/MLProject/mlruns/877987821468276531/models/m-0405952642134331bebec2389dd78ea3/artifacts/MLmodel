@@ -1,0 +1,36 @@
+artifact_path: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/877987821468276531/models/m-0405952642134331bebec2389dd78ea3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-0405952642134331bebec2389dd78ea3
+model_size_bytes: 1071
+model_uuid: m-0405952642134331bebec2389dd78ea3
+prompts: null
+run_id: 2ff4bb96fd50457e8cde4b2db068d5f1
+signature:
+  inputs: '[{"type": "long", "name": "Loan_ID", "required": true}, {"type": "long",
+    "name": "Gender", "required": true}, {"type": "long", "name": "Married", "required":
+    true}, {"type": "long", "name": "Dependents", "required": true}, {"type": "long",
+    "name": "Education", "required": true}, {"type": "long", "name": "Self_Employed",
+    "required": true}, {"type": "double", "name": "ApplicantIncome", "required": true},
+    {"type": "double", "name": "CoapplicantIncome", "required": true}, {"type": "double",
+    "name": "LoanAmount", "required": true}, {"type": "double", "name": "Loan_Amount_Term",
+    "required": true}, {"type": "double", "name": "Credit_History", "required": true},
+    {"type": "long", "name": "Property_Area", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-16 17:40:09.249599'

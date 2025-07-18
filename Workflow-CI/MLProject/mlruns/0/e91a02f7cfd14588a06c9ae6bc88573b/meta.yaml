@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/0/e91a02f7cfd14588a06c9ae6bc88573b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e91a02f7cfd14588a06c9ae6bc88573b
+run_name: funny-snipe-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752682638577
+status: 1
+tags: []
+user_id: salsa

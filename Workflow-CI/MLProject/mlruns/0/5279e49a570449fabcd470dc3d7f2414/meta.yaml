@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/0/5279e49a570449fabcd470dc3d7f2414/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5279e49a570449fabcd470dc3d7f2414
+run_name: abundant-kit-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752681188171
+status: 1
+tags: []
+user_id: salsa

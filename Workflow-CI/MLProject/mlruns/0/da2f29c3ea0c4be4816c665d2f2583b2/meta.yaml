@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/0/da2f29c3ea0c4be4816c665d2f2583b2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da2f29c3ea0c4be4816c665d2f2583b2
+run_name: receptive-tern-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752681349605
+status: 1
+tags: []
+user_id: salsa
