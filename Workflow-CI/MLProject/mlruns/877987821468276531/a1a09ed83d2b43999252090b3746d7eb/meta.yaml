@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/877987821468276531/a1a09ed83d2b43999252090b3746d7eb/artifacts
+end_time: 1753019331236
+entry_point_name: ''
+experiment_id: '877987821468276531'
+lifecycle_stage: active
+run_id: a1a09ed83d2b43999252090b3746d7eb
+run_name: bold-mink-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753019321375
+status: 3
+tags: []
+user_id: salsa

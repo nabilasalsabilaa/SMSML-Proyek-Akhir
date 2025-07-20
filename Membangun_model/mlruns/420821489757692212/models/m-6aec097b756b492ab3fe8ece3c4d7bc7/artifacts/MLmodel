@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Membangun_model/mlruns/420821489757692212/models/m-6aec097b756b492ab3fe8ece3c4d7bc7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-6aec097b756b492ab3fe8ece3c4d7bc7
+model_size_bytes: 1071
+model_uuid: m-6aec097b756b492ab3fe8ece3c4d7bc7
+prompts: null
+run_id: 53ec4c7fef6f4872ab04384836a6730b
+utc_time_created: '2025-07-20 06:09:33.654592'

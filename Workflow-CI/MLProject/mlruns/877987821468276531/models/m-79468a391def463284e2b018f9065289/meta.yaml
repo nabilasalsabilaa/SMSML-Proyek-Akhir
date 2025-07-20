@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/877987821468276531/models/m-79468a391def463284e2b018f9065289/artifacts
+creation_timestamp: 1753019321681
+experiment_id: '877987821468276531'
+last_updated_timestamp: 1753019331200
+model_id: m-79468a391def463284e2b018f9065289
+model_type: null
+name: model
+source_run_id: a1a09ed83d2b43999252090b3746d7eb
+status: 2
+status_message: null

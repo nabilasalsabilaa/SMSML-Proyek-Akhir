@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/mlruns/873971098581336270/39cc33cfe65f4401ad54e46e0103692d/artifacts
+end_time: 1752993341798
+entry_point_name: ''
+experiment_id: '873971098581336270'
+lifecycle_stage: active
+run_id: 39cc33cfe65f4401ad54e46e0103692d
+run_name: rogue-perch-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752993331368
+status: 3
+tags: []
+user_id: salsa

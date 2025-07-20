@@ -2,16 +2,16 @@ from prometheus_client import start_http_server, Counter, Histogram
 import time
 import random
 
-REQUEST_COUNT = Counter("request_count", "Total number of requests")
-REQUEST_LATENCY = Histogram("request_latency_seconds", "Latency of requests in seconds")
+# Metrics
+REQUEST_COUNT = Counter("request_count", "Total requests")
+REQUEST_LATENCY = Histogram("request_latency_seconds", "Request latency")
 
-def process_request():
+# Start server
+start_http_server(8000)
+print("Prometheus exporter running on http://localhost:8000")
+
+# Simulasi metrik
+while True:
     REQUEST_COUNT.inc()
-    latency = random.uniform(0.1, 1.5)
-    REQUEST_LATENCY.observe(latency)
-    time.sleep(latency)
-
-if __name__ == "__main__":
-    start_http_server(8000)
-    while True:
-        process_request()
+    REQUEST_LATENCY.observe(random.uniform(0.1, 1.0))
+    time.sleep(2)

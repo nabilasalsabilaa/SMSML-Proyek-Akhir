@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Workflow-CI/MLProject/mlruns/877987821468276531/0d64447e329e46bdb09346e5679d0b5b/artifacts
+end_time: 1753022176157
+entry_point_name: ''
+experiment_id: '877987821468276531'
+lifecycle_stage: active
+run_id: 0d64447e329e46bdb09346e5679d0b5b
+run_name: salty-stork-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753022165929
+status: 3
+tags: []
+user_id: salsa
