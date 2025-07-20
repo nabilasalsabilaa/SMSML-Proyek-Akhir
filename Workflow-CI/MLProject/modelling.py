@@ -4,10 +4,8 @@ import mlflow.sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
-import os
 
-# Set experiment
-mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"))
+# (Optional) Set experiment name
 mlflow.set_experiment("Loan Status Prediction")
 
 # Load data
