@@ -11,7 +11,7 @@ mlflow.set_tracking_uri("file:///" + os.path.abspath("mlruns").replace("\\", "/"
 mlflow.set_experiment("Loan Status Prediction")
 
 # Load data
-df = pd.read_csv("loan_data_preprocessing.csv")
+df = pd.read_csv("Workflow-CI/MLProject/loan_data_preprocessing.csv")
 X = df.drop("Loan_Status", axis=1)
 y = df["Loan_Status"]
 
