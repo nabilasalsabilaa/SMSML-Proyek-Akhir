@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/salsa/Documents/SMSML_Nabila%20Salsabila/Membangun_model/mlruns/420821489757692212/d504308fa3874d10afa497ab1341c32d/artifacts
+end_time: 1752971099587
+entry_point_name: ''
+experiment_id: '420821489757692212'
+lifecycle_stage: active
+run_id: d504308fa3874d10afa497ab1341c32d
+run_name: sedate-carp-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752971088619
+status: 3
+tags: []
+user_id: salsa
